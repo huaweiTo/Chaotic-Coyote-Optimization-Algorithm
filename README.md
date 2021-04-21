@@ -1,5 +1,5 @@
 # Chaotic-Coyote-Optimization-Algorithm
-the Matlab code of CCOA
+the Matlab code of CCOA which use Chebyshev Map
 
 Please run main.m
 
